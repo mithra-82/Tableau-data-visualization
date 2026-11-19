@@ -7,7 +7,7 @@
 ## Project File
 - zomato dashboard.twbx
 ## Dashboard preview
-![zomato dashboard](zomato-dashboard.png)
+![zomato dashboard](zomato%20dashboard.png)
 ## Objective
 **To visualize restaurant-related data and gain meaningful insights through interactive dashboards.**
 ## Conclusion
